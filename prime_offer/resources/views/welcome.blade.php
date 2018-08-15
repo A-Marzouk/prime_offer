@@ -10,7 +10,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Prime offer</title>
+    <title>Prime-Offer</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/jquery.fancybox.css">
@@ -19,13 +19,17 @@
     <link rel="stylesheet" href="css/font-icon.css">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" type="image/png" href="images/logo_icon.png"/>
+
 </head>
 
 <body>
 <!-- header section -->
 <section class="banner" role="banner">
     <header id="header">
-        <div class="header-content clearfix"> <a class="logo" href="index.html">PRIME-OFFER</a>
+        <div class="header-content clearfix"> <a class="logo" href="/">
+                PRIME<img src="images/logo_icon.png" alt="logo" width="30px"> OFFER
+            </a>
             <nav class="navigation" role="navigation">
                 <ul class="primary-nav">
                     <li><a href="#intro">About</a></li>
@@ -46,7 +50,7 @@
                 <p>
                     With the development of technology, more people are turning to services or goods on the Internet. Therefore, digital marketing has become one of the main business tools in the fight against increasing competition
                 </p>
-                <a href="#" class="btn btn-large">Find out more</a> </div>
+                <a href="#intro" class="btn btn-large">Find out more</a> </div>
             <!-- banner text -->
         </div>
     </div>
@@ -329,17 +333,15 @@
 <!-- Testimonials section -->
 
 {{-- how to start section --}}
-<section id="contact" class="section">
+<section id="contact" class="section" style="padding-bottom: 0;">
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 conForm">
-                <h5>How to start ? </h5>
-                <p>
-                </p>
-                <div>
+                <h5>How to start ? </h5><br/><br/>
+                <div class="row">
                     <!-- Stepper -->
                     <div class="steps-form-2">
-                        <div class="steps-row-2 setup-panel-2 d-flex justify-content-between">
+                        <div class="steps-row-2 setup-panel-2 d-flex justify-content-between row">
                             <div class="steps-step-2">
                                 <a href="#step-1" type="button" class="btn btn-amber btn-circle-2 waves-effect ml-0" data-toggle="tooltip" data-placement="top" title="Fill an online form">
                                     <i class="fa fa-pencil" aria-hidden="true"></i>
@@ -364,7 +366,7 @@
                     </div>
 
                     <!-- First Step -->
-                    <form role="form" action="" method="post">
+                    <form role="form" action="" method="post" style="margin-top: 50px;">
                         <div class="row setup-content-2" id="step-1">
                             <div class="col-md-12">
                                 <div class="stepText">
@@ -448,9 +450,11 @@
                 </p>
                 <div id="message"></div>
                 <form method="post" action="php/contact.php" name="cform" id="cform">
-                    <input name="name" id="name" type="text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Your name..." >
+                    <input name="name" id="name" type="text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Name..." >
                     <input name="email" id="email" type="email" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Email Address..." >
-                    <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Project Details..."></textarea>
+                    <input name="phone" id="phone" type="phone" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Phone number..." >
+                    <input name="bussiness_area" id="bussiness_area" type="text" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Business area..." >
+                    <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Question..."></textarea>
                     <input type="submit" id="submit" name="send" class="submitBnt" value="Send your query">
                     <div id="simple-msg"></div>
                 </form>
@@ -467,20 +471,20 @@
             <div class="row">
                 <div class="footer-col col-md-6">
                     <h5>Our Office Location</h5>
-                    <p>Collins Street West Victoria 8007 Australia.<br>
-                        1800 1234 56789 / 98532100987<br>
-                        support@lexis.com</p>
-                    <p>Copyright © 2015 Lexis Inc. All Rights Reserved. Made with <i class="fa fa-heart pulse"></i> by <a href="http://www.designstub.com/">Designstub</a></p>
+                    <p>Ukraine, Kiev. Prospekt Saborny 27A.<br>
+                        +380 (67) 451 57 31<br>
+                        support@prime_offer.com</p>
+                    <p>Copyright © 2018 Prime-Offer Inc. All Rights Reserved. Made with <i class="fa fa-heart pulse"></i> by <a href="javascript:void(0)">Prime-Offer</a></p>
                 </div>
                 <div class="footer-col col-md-3">
                     <h5>Services We Offer</h5>
                     <p>
                     <ul>
-                        <li><a href="#">Digital Strategy</a></li>
-                        <li><a href="#">Websites</a></li>
-                        <li><a href="#">Videography</a></li>
-                        <li><a href="#">Social Media</a></li>
-                        <li><a href="#">User Experience</a></li>
+                        <li><a href="#">SEO</a></li>
+                        <li><a href="#">SMM</a></li>
+                        <li><a href="#">Email marketing</a></li>
+                        <li><a href="#">WEBSITE DEVELOPMENT</a></li>
+                        <li><a href="#">WEB ANALYTICS</a></li>
                     </ul>
                     </p>
                 </div>
