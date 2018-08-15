@@ -77,6 +77,8 @@ body {
 	font-family: "Open Sans", Arial, sans-serif;
 	font-weight: 400;
 	color: #6c7279;
+	overflow-y: scroll;
+	overflow-x: hidden;
 }
 ul, ol {
 	margin: 0;

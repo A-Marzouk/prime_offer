@@ -27,7 +27,7 @@
 <!-- header section -->
 <section class="banner" role="banner">
     <header id="header">
-        <div class="header-content clearfix"> <a class="logo" href="/">
+        <div class="header-content clearfix col-10"> <a class="logo" style="width: 88%;" href="/">
                 PRIME<img src="images/logo_icon.png" alt="logo" width="30px"> OFFER
             </a>
             <nav class="navigation" role="navigation">
@@ -334,7 +334,7 @@
 
 {{-- how to start section --}}
 <section id="contact" class="section" style="padding-bottom: 0;">
-    <div class="container">
+    <div class="container" style="width: 88% !important;">
         <div class="row">
             <div class="col-md-8 col-md-offset-2 conForm">
                 <h5>How to start ? </h5><br/><br/>
