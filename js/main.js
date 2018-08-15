@@ -19,6 +19,14 @@ $(document).ready(function() {
 		directionNav: false,
 	});
 
+	// scroll for find out more btn :
+
+    $("#findMoreBtn").click(function() {
+        $('html, body').animate({
+            scrollTop: $("#intro").offset().top
+        }, 2000);
+    });
+
 	// Page Scroll
 	var sections = $('section')
 		nav = $('nav[role="navigation"]');

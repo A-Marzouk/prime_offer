@@ -50,7 +50,7 @@
                 <p>
                     With the development of technology, more people are turning to services or goods on the Internet. Therefore, digital marketing has become one of the main business tools in the fight against increasing competition
                 </p>
-                <a href="#intro" class="btn btn-large">Find out more</a> </div>
+                <a href="javascript:void(0)" class="btn btn-large" id="findMoreBtn">Find out more</a> </div>
             <!-- banner text -->
         </div>
     </div>
