@@ -687,6 +687,10 @@ padding:15px 30px 15px 30px;
 	.stepText span{
 		border-bottom: 0 !important;
 	}
+
+	.primary-nav{
+		margin-top: 0px !important;
+	}
 }
 
 
@@ -731,4 +735,8 @@ padding:15px 30px 15px 30px;
 
 .prevBtn-2{
 	display: none;
+}
+
+.primary-nav{
+	margin-top: -35px;
 }

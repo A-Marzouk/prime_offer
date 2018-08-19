@@ -10,7 +10,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Prime-Offer</title>
+    <title>Prime Offer - unlimited power of digital marketing</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/jquery.fancybox.css">
@@ -27,15 +27,15 @@
 <!-- header section -->
 <section class="banner" role="banner">
     <header id="header">
-        <div class="header-content clearfix col-10"> <a class="logo" style="width: 88%;" href="/">
-                PRIME<img src="images/logo_icon.png" alt="logo" width="30px"> OFFER
+        <div class="header-content clearfix col-10">
+            <a class="logo" style="width: 88%;" href="/" id="brandLogo">
+                PRIME<img src="images/logo_icon.png" alt="logo" width="60px"> OFFER
             </a>
             <nav class="navigation" role="navigation">
                 <ul class="primary-nav">
                     <li><a href="#intro">About</a></li>
                     <li><a href="#services">services</a></li>
                     <li><a href="#works">Works</a></li>
-                    <li><a href="#teams">Our Team</a></li>
                     <li><a href="#testimonials">Testimonials</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
@@ -72,46 +72,37 @@
 <section id="services" class="services service-section">
     <div class="container">
         <div class="row">
+
             <div class="col-md-4 col-sm-6 services text-center"> <span class="icon icon-genius"></span>
                 <div class="services-content">
-                    <h5>Search engine optimization</h5>
+                    <h5>Creating brand awareness</h5>
                     <p>
-                        Search engine optimization is a complex of works on your site in order to bring it to the TOP 10 search results in Google or another search engines.
-                        {{--The well-known fact that 86% of Internet users do not move on to the second page of search results. Moreover, almost 80% of these people open only 5-7 first sites. Therefore, top web resources always “cherry pick” and get more visitors to the site, more sales.--}}
-                        {{--To start SEO we need to conduct an analysis of your business and target audience, find out what search terms people use to looking for your product or service. Next, we correctly configure the site for the search engine and begin promotion.--}}
-
-                    </p>
+                        To make a brand recognizable you need to select those advertising channels where your target audience is. Advertisements must hit the target and be memorable. We create for the customer unique photos and videos, infographics and other content that we use for advertising. Before choosing an advertising channel, we carefully analyse the business to select the most effective brand competitors and make your investments profitable.                    </p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 services text-center">
                 <span class="icon icon-profile-male"></span>
                 <span class="icon icon-profile-female"></span>
                 <div class="services-content">
-                    <h5>SMM (Social Media Marketing)</h5>
+                    <h5>Social Media Marketing</h5>
                     <p>
-                        Social networks absorb more and more of our time and attention. This is the so-called “comfort zone” of the Internet user, where he feels relaxed, like at home. Therefore, the proper managing of a business account on the social network, creating interesting and non-standard content and correct advertising campaigns can give your business new customers.
-                        {{--At the same time your followers – this is the most loyal audience and regular customers.--}}
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 services text-center"> <span class="icon  icon-envelope"></span>
-                <div class="services-content">
-                    <h5>Email marketing</h5>
-                    <p>
-                        Can your business collect customers email addresses? It can be used for email marketing! This service will help you to increase the loyalty of the existing customer base, carry out post-sales and notify people about important events in the life of your company.
-                        In order for email marketing to work, you need to create the right content plan, which encompasses useful, informational and commercial letters.
-
+                        Social networks absorb more and more of our time and attention. This is the so-called “comfort zone” of the Internet user, where he feels relaxed, like at home. Therefore, the proper managing of a business account on the social network, creating interesting and non-standard content and correct advertising campaigns can give your business new customers. At the same time your followers – this is the most loyal audience and regular customers.
                     </p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 services text-center"> <span class="icon icon-genius"></span>
                 <div class="services-content">
-                    <h5>Creating brand awareness</h5>
+                    <h5>Search engine optimization</h5>
                     <p>
-                        To make a brand recognizable you need to select those advertising channels where your target audience is. Advertisements must hit the target and be memorable. We create for the customer unique photos and videos, infographics and other content that we use for advertising. Before choosing an advertising channel, we carefully analyse the business to select the most effective brand competitors and make your investments profitable.
+                        Search engine optimization is a complex of works on your site in order to bring it to the TOP 10 search results in Google or another search engines. The well-known fact that 86% of Internet users do not move on to the second page of search results. Moreover, almost 80% of these people open only 5-7 first sites. Therefore, top web resources always “cherry pick” and get more visitors to the site, more sales.
+                        To start SEO we need to conduct an analysis of your business and target audience, find out what search terms people use to looking for your product or service. Next, we correctly configure the site for the search engine and begin promotion.
                     </p>
                 </div>
             </div>
+        </div>
+
+        <div class="row">
+
             <div class="col-md-4 col-sm-6 services text-center"> <span class="icon icon-tools"></span>
                 <div class="services-content">
                     <h5>
@@ -127,7 +118,16 @@
                 <div class="services-content">
                     <h5>Web analytics</h5>
                     <p>
-                        We carry out the analytics of customer sites, analyse traffic and determine its sources. This helps us to choose the right channels for attracting targeted audience and optimize marketing campaigns. Thus, you invest only in those traffic channels that bring profitable customers.
+                        We carry out the analytics of customer sites, analyse traffic and determine its sources. This helps us to choose the right channels for attracting targeted audience and optimize marketing campaigns. Thus, you invest only in those traffic channels that bring profitable customers.                     </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 services text-center"> <span class="icon  icon-envelope"></span>
+                <div class="services-content">
+                    <h5>Email marketing</h5>
+                    <p>
+                        Can your business collect customers email addresses? It can be used for email marketing! This service will help you to increase the loyalty of the existing customer base, carry out post-sales and notify people about important events in the life of your company.
+                        In order for email marketing to work, you need to create the right content plan, which encompasses useful, informational and commercial letters.
+
                     </p>
                 </div>
             </div>
@@ -215,77 +215,7 @@
     </div>
 </section>
 <!-- work section -->
-<!-- our team section -->
-<section id="teams" class="section teams">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="person"><img src="images/team-1.jpg" alt="" class="img-responsive">
-                    <div class="person-content">
-                        <h4>Lisa Brown</h4>
-                        <h5 class="role">The Mastermind</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. </p>
-                    </div>
-                    <ul class="social-icons clearfix">
-                        <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                        <li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-                        <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                        <li><a href="#"><span class="fa fa-dribbble"></span></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="person"> <img src="images/team-2.jpg" alt="" class="img-responsive">
-                    <div class="person-content">
-                        <h4>Johnathan Deo</h4>
-                        <h5 class="role">Creative head</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                    </div>
-                    <ul class="social-icons clearfix">
-                        <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="person"> <img src="images/team-3.jpg" alt="" class="img-responsive">
-                    <div class="person-content">
-                        <h4>Mike collins</h4>
-                        <h5 class="role">Technical lead</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                    </div>
-                    <ul class="social-icons clearfix">
-                        <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="person"> <img src="images/team-4.jpg" alt="" class="img-responsive">
-                    <div class="person-content">
-                        <h4>Rita Rose</h4>
-                        <h5 class="role">Marketing head</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                    </div>
-                    <ul class="social-icons clearfix">
-                        <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-linkedin"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li>
-                        <li><a href="#" class=""><span class="fa fa-dribbble"></span></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <!-- our team section -->
 <!-- Testimonials section -->
 <section id="testimonials" class="section testimonials no-padding">
@@ -296,32 +226,29 @@
                     <li>
                         <div class="col-md-12">
                             <blockquote>
-                                <h1>"Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Phasellus non dolor nibh. Nullam elementum Aenean eu leo quam..." </h1>
-                                <p>Rene Brown, Open Window production</p>
+                                <h1>"
+                                    Prime Offer has easy-to-use functionality that perfectly fit the needs of our enterprise by being able to assign tasks and search keywords we have strsmlined our team and and are able to reach more posts                                    " </h1>
+                                <p>Rene Brown, workforce production</p>
                             </blockquote>
                         </div>
                     </li>
                     <li>
                         <div class="col-md-12">
                             <blockquote>
-                                <h1>"Cras dictum tellus dui, vitae sollicitudin ipsum. Phasellus non dolor nibh. Nullam elementum tellus pretium feugiat shasellus non dolor nibh. Nullam elementum tellus pretium feugiat." </h1>
-                                <p>Brain Rice, Lexix Private Limited.</p>
+                                <h1>"
+                                    We have been working with Prime Offer for over one year and have been consistently thrilled with their performance, attention to detail, and data-driven approach to meeting our aggressive goals.
+                                    "</h1>
+                                <p>Brain Rice, WeSell store.</p>
                             </blockquote>
                         </div>
                     </li>
                     <li>
                         <div class="col-md-12">
                             <blockquote>
-                                <h1>"Cras mattis consectetur purus sit amet fermentum. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur...." </h1>
-                                <p>Andi Simond, Global Corporate Inc</p>
-                            </blockquote>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="col-md-12">
-                            <blockquote>
-                                <h1>"Lorem ipsum dolor sit amet, consectetur adipiscing elitPhasellus non dolor nibh. Nullam elementum tellus pretium feugiat. Cras dictum tellus dui sollcitudin." </h1>
-                                <p>Kristy Gabbor, Martix Media</p>
+                                <h1>"
+                                    I just wanted to send you all a quick THANK YOU for all the hard work you put into my site! I am thrilled with it, and have gotten great feedback! I am finally proud to have people view my website, and I feel like it represents me as a person and a brand. Thank you for that!
+                                    "</h1>
+                                <p>Andi Simond, SunRise it</p>
                             </blockquote>
                         </div>
                     </li>
@@ -380,7 +307,7 @@
                         <div class="row setup-content-2" id="step-2">
                             <div class="col-md-12">
                                 <div  class="stepText">
-                                    <span>We will contact you to mail or Skype</span>
+                                    <span>We will contact you soon</span>
                                 </div>
                                 <button class="btn btn-mdb-color btn-rounded prevBtn-2 float-left" type="button">Previous</button>
                                 <button class="btn btn-mdb-color btn-rounded nextBtn-2 float-right" type="button">Next</button>
@@ -445,16 +372,16 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2 conForm">
                 <h5>Still have questions ? Leave a request on the site and we will consult you for free.</h5>
-                <p>
+                <p style="font-size: 1.5em;">
                     We are happy to receive your requests
                 </p>
                 <div id="message"></div>
                 <form method="post" action="php/contact.php" name="cform" id="cform">
-                    <input name="name" id="name" type="text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Name..." >
-                    <input name="email" id="email" type="email" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Email Address..." >
-                    <input name="phone" id="phone" type="phone" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Phone number..." >
-                    <input name="bussiness_area" id="bussiness_area" type="text" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Business area..." >
-                    <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Question..."></textarea>
+                    <input name="name" id="name" type="text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="* Name..." required>
+                    <input name="email" id="email" type="email" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="* Email Address..." required>
+                    <input name="phone" id="phone" type="phone" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="* Phone number..." required>
+                    <input name="bussiness_area" id="bussiness_area" type="text" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="* Business area..." required>
+                    <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="* Question..." required></textarea>
                     <input type="submit" id="submit" name="send" class="submitBnt" value="Send your query">
                     <div id="simple-msg"></div>
                 </form>
@@ -470,10 +397,8 @@
         <div class="container">
             <div class="row">
                 <div class="footer-col col-md-6">
-                    <h5>Our Office Location</h5>
-                    <p>Ukraine, Kiev. Prospekt Saborny 27A.<br>
-                        +380 (67) 451 57 31<br>
-                        support@prime_offer.com</p>
+                    <h5>Contact</h5>
+                    <p>info@prime-offer.com</p>
                     <p>Copyright © 2018 Prime-Offer Inc. All Rights Reserved. Made with <i class="fa fa-heart pulse"></i> by <a href="javascript:void(0)">Prime-Offer</a></p>
                 </div>
                 <div class="footer-col col-md-3">
@@ -487,15 +412,6 @@
                         <li><a href="#">WEB ANALYTICS</a></li>
                     </ul>
                     </p>
-                </div>
-                <div class="footer-col col-md-3">
-                    <h5>Share with Love</h5>
-                    <ul class="footer-share">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
                 </div>
             </div>
         </div>

@@ -2,12 +2,22 @@ $(document).ready(function() {
 	// Header Scroll
 	$(window).on('scroll', function() {
 		var scroll = $(window).scrollTop();
+		var is_mobile = false;
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        	is_mobile = true;
+        }
 
-		if (scroll >= 50) {
+            if (scroll >= 50 && is_mobile === false) {
 			$('#header').addClass('fixed');
 		} else {
 			$('#header').removeClass('fixed');
 		}
+
+        if (scroll >= 50 && is_mobile === true) {
+        	$('#brandLogo').css('display','none');
+		}else{
+            $('#brandLogo').css('display','block');
+        }
 	});
 
 	// Fancybox
