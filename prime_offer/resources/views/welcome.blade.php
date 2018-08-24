@@ -29,7 +29,7 @@
     <header id="header">
         <div class="header-content clearfix col-10">
             <a class="logo" style="width: 88%;" href="/" id="brandLogo">
-                PRIME<img src="images/logo_icon.png" alt="logo" width="60px"> OFFER
+                PRIME<img src="images/logo_icon.png" alt="logo" width="60px" id="imageLogo"> OFFER
             </a>
             <nav class="navigation" role="navigation">
                 <ul class="primary-nav">
