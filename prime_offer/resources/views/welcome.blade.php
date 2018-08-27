@@ -274,7 +274,7 @@
                             <div class="row setup-content-2" id="step-1">
                                 <div class="col-md-12">
                                     <div class="stepText">
-                                        <span>Fill a sample online form.</span>
+                                        <span>Fill a sample <a href="/contact">online form</a>.</span>
                                     </div>
                                     <button class="btn btn-mdb-color btn-rounded nextBtn-2 float-right" type="button">Next</button>
                                 </div>
