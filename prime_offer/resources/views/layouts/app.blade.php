@@ -62,6 +62,7 @@
     <!-- Footer section -->
     <!-- JS FILES -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/jquery.flexslider-min.js"></script>
     <script src="/js/jquery.fancybox.pack.js"></script>

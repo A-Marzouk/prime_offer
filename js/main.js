@@ -1,4 +1,17 @@
 $(document).ready(function() {
+
+    // form submission :
+
+    $('#contactForm').on('submit',function(e){
+        e.preventDefault();
+        let myForm = document.getElementById('contactForm');
+        var bodyFormData = new FormData(myForm);
+        axios.post('https://docs.google.com/forms/d/e/1FAIpQLSd974MDOWYWZ9sfrCq5syMCxB1W129MhW2XeuX0w2isXCYJhg/formResponse',bodyFormData).then( (response)=>{
+
+        });
+        window.location.replace("http://prime-offer.kl.com.ua/thanks");
+    });
+
 	// Header Scroll
 	$(window).on('scroll', function() {
 		var scroll = $(window).scrollTop();
