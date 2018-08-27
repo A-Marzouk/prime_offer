@@ -306,7 +306,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url(../images/banner.jpg);
+	background-image: url(../images/background.png);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
@@ -689,6 +689,10 @@ padding:15px 30px 15px 30px;
 	}
 
 	.primary-nav{
+		margin-top: 0px !important;
+	}
+
+	.steps-form-2 .steps-row-2 .steps-step-2 .btn-circle-2{
 		margin-top: 0px !important;
 	}
 }

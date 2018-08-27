@@ -279,7 +279,6 @@
                                     <button class="btn btn-mdb-color btn-rounded nextBtn-2 float-right" type="button">Next</button>
                                 </div>
                             </div>
-
                             <!-- Second Step -->
                             <div class="row setup-content-2" id="step-2">
                                 <div class="col-md-12">
