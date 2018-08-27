@@ -13,7 +13,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 conForm">
-                        <h4 style="color: lightgray; padding-bottom: 25px; padding-top: 50px;">
+                        <h4 style="color: lightgray; padding-bottom: 25px; padding-top: 50x;">
                             We are happy to receive your requests
                         </h4>
 

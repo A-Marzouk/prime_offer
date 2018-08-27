@@ -19,18 +19,18 @@
                 </nav>
                 <a href="#" class="nav-toggle">Menu<span></span></a> </div>
         </header>
-    <!-- banner text -->
-    <div class="container">
-        <div class="col-md-10 col-md-offset-1">
-            <div class="banner-text text-center">
-                <h1>Unlimited power of digital marketing</h1>
-                <p>
-                    With the development of technology, more people are turning to services or goods on the Internet. Therefore, digital marketing has become one of the main business tools in the fight against increasing competition
-                </p>
-                <a href="javascript:void(0)" class="btn btn-large" id="findMoreBtn">Find out more</a> </div>
-            <!-- banner text -->
+        <!-- banner text -->
+        <div class="container">
+            <div class="col-md-10 col-md-offset-1">
+                <div class="banner-text text-center">
+                    <h1>Unlimited power of digital marketing</h1>
+                    <p>
+                        With the development of technology, more people are turning to services or goods on the Internet. Therefore, digital marketing has become one of the main business tools in the fight against increasing competition
+                    </p>
+                    <a href="javascript:void(0)" class="btn btn-large" id="findMoreBtn">Find out more</a> </div>
+                <!-- banner text -->
+            </div>
         </div>
-    </div>
     </section>
     <!-- header section -->
     <!-- intro section -->
