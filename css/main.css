@@ -682,6 +682,7 @@ padding:15px 30px 15px 30px;
 @media only screen and (max-width: 600px) {
 	.steps-form-2 .steps-row-2 .steps-step-2 {
 		display: block;
+		margin-top: 3px;
 	}
 
 	.stepText span{
@@ -694,6 +695,10 @@ padding:15px 30px 15px 30px;
 
 	.steps-form-2 .steps-row-2 .steps-step-2 .btn-circle-2{
 		margin-top: 0px !important;
+	}
+
+	.flexslider .slides:after{
+		padding-top: 35px;
 	}
 }
 

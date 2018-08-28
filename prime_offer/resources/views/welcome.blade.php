@@ -6,7 +6,7 @@
         <header id="header">
             <div class="header-content clearfix col-10">
                 <a class="logo" style="width: 88%;" href="/" id="brandLogo">
-                    PRIME<img src="images/logo_icon.png" alt="logo" width="60px" id="imageLogo"> OFFER
+                    PRIME<img src="images/logo_trans.png" alt="logo" width="60px" id="imageLogo">OFFER
                 </a>
                 <nav class="navigation" role="navigation">
                     <ul class="primary-nav">
@@ -14,7 +14,7 @@
                         <li><a href="#services">services</a></li>
                         <li><a href="#works">Works</a></li>
                         <li><a href="#testimonials">Testimonials</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#contactText">Contact</a></li>
                     </ul>
                 </nav>
                 <a href="#" class="nav-toggle">Menu<span></span></a> </div>
@@ -223,7 +223,7 @@
                             <div class="col-md-12">
                                 <blockquote>
                                     <h1>"
-                                        I just wanted to send you all a quick THANK YOU for all the hard work you put into my site! I am thrilled with it, and have gotten great feedback! I am finally proud to have people view my website, and I feel like it represents me as a person and a brand. Thank you for that!
+                                        I just wanted to send you all a quick THANK YOU for all the hard work you put into my site! I am thrilled with it, and have gotten great feedback! I am finally proud to have people view my website.
                                         "</h1>
                                     <p>Andi Simond, SunRise it</p>
                                 </blockquote>
@@ -251,18 +251,27 @@
                                         <i class="fa fa-pencil" aria-hidden="true"></i>
                                     </a>
                                 </div>
+                                <span style="color: #7283a7; font-weight: bold; font-size: large;">|</span>
                                 <div class="steps-step-2">
                                     <a href="#step-2" type="button" class="btn btn-blue-grey btn-circle-2 waves-effect" data-toggle="tooltip" data-placement="top" title="Contact"><i class="fa fa-phone" aria-hidden="true"></i></a>
                                 </div>
+                                <span style="color: #7283a7; font-weight: bold; font-size: large">|</span>
+
                                 <div class="steps-step-2">
                                     <a href="#step-3" type="button" class="btn btn-blue-grey btn-circle-2 waves-effect" data-toggle="tooltip" data-placement="top" title="Analysis"><i class="fa fa-bar-chart" aria-hidden="true"></i></a>
                                 </div>
+                                <span style="color: #7283a7; font-weight: bold; font-size: large">|</span>
+
                                 <div class="steps-step-2">
                                     <a href="#step-4" type="button" class="btn btn-blue-grey btn-circle-2 waves-effect" data-toggle="tooltip" data-placement="top" title="Strategy"><i class="fa fa-map-o" aria-hidden="true"></i></a>
                                 </div>
+                                <span style="color: #7283a7; font-weight: bold; font-size: large">|</span>
+
                                 <div class="steps-step-2">
                                     <a href="#step-5" type="button" class="btn btn-blue-grey btn-circle-2 waves-effect" data-toggle="tooltip" data-placement="top" title="Agreement"><i class="fa fa-file-text" aria-hidden="true"></i></a>
                                 </div>
+                                <span style="color: #7283a7; font-weight: bold; font-size: large">|</span>
+
                                 <div class="steps-step-2">
                                     <a href="#step-6" type="button" class="btn btn-blue-grey btn-circle-2 waves-effect" data-toggle="tooltip" data-placement="top" title="Start work"><i class="fa fa-check" aria-hidden="true"></i></a>
                                 </div>
@@ -348,6 +357,8 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 conForm">
                     <h5>Still have questions ? Leave a request on the site and we will consult you for free.</h5>
+                    <p id="contactText"></p>
+                    <br/>
                     <p style="font-size: 1.5em;">
                         We are happy to receive your requests
                     </p>
@@ -359,7 +370,7 @@
                         <input name="entry.1417512616" id="phone" type="phone" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="* Phone number..." required>
                         <input name="entry.828207879" id="bussiness_area" type="text" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="* Business area..." required>
                         <textarea name="entry.1511863502" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="* Question..." required></textarea>
-                        <input type="submit" class="submitBnt" value="Send your query">
+                        <input type="submit" class="submitBnt" value="Send your query" style="margin-right: 0;">
                     </form>
                 </div>
             </div>
