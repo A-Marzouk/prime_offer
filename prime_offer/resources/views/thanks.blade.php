@@ -6,7 +6,7 @@
         <header id="header">
             <div class="header-content clearfix col-10">
                 <a class="logo" style="width: 88%;" href="/" id="brandLogo">
-                    PRIME<img src="images/logo_trans.png" alt="logo" width="60px" id="imageLogo"> OFFER
+                    PRIME<img src="images/logo_trans.png" alt="logo" width="60px" id="imageLogo">OFFER
                 </a>
             </div>
        </header>
