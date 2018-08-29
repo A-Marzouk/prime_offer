@@ -116,80 +116,44 @@
     <section id="works" class="works section no-padding">
         <div class="container-fluid">
             <div class="row no-gutter">
-                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-1.jpg" class="work-box"> <img src="images/work-1.jpg" alt="">
+                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/smartmockups_jletx65v.png" class="work-box"> <img src="images/smartmockups_jletx65v.png" alt="" style="height: 336px!important;">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Project Name</h5>
+                                <h5>Software engineer portfolio</h5>
+                                <p>Portfolio Design</p>
+                            </div>
+                        </div>
+                        <!-- overlay -->
+                    </a> </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/smartmockups_jlewd7a4.jpg" class="work-box"> <img src="images/smartmockups_jlewd7a4.jpg" alt="" style="height: 336px!important;">
+                        <div class="overlay">
+                            <div class="overlay-caption">
+                                <h5>WeDo</h5>
                                 <p>Website Design</p>
                             </div>
                         </div>
                         <!-- overlay -->
                     </a> </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-2.jpg" class="work-box"> <img src="images/work-2.jpg" alt="">
+                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/smartmockups_jlevq56h.png" class="work-box"> <img src="images/smartmockups_jlevq56h.png" alt="" style="height: 336px!important;">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
+                                <h5>Ankor-shop</h5>
+                                <p>E-commerce Design & Development</p>
                             </div>
                         </div>
                         <!-- overlay -->
                     </a> </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-3.jpg" class="work-box"> <img src="images/work-3.jpg" alt="">
+                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/desktop.png" class="work-box"> <img src="images/desktop.png" alt="" style="height: 336px!important;">
                         <div class="overlay">
                             <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
-                            </div>
-                        </div>
-                        <!-- overlay -->
-                    </a> </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-4.jpg" class="work-box"> <img src="images/work-4.jpg" alt="">
-                        <div class="overlay">
-                            <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
-                            </div>
-                        </div>
-                        <!-- overlay -->
-                    </a> </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-5.jpg" class="work-box"> <img src="images/work-5.jpg" alt="">
-                        <div class="overlay">
-                            <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
-                            </div>
-                        </div>
-                        <!-- overlay -->
-                    </a> </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-6.jpg" class="work-box"> <img src="images/work-6.jpg" alt="">
-                        <div class="overlay">
-                            <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
-                            </div>
-                        </div>
-                        <!-- overlay -->
-                    </a> </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-7.jpg" class="work-box"> <img src="images/work-7.jpg" alt="">
-                        <div class="overlay">
-                            <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
-                            </div>
-                        </div>
-                        <!-- overlay -->
-                    </a> </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/work-8.jpg" class="work-box"> <img src="images/work-8.jpg" alt="">
-                        <div class="overlay">
-                            <div class="overlay-caption">
-                                <h5>Project Name</h5>
-                                <p>Website Design</p>
+                                <h5>123 WorkForce</h5>
+                                <p>Website Design & development</p>
                             </div>
                         </div>
                         <!-- overlay -->
                     </a> </div>
             </div>
-        </div>
+        </div><br/><br><br/>
     </section>
     <!-- work section -->
 
