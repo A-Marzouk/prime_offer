@@ -45,11 +45,11 @@
                         <h5>Services We Offer</h5>
                         <p>
                         <ul>
-                            <li><a href="#">SEO</a></li>
-                            <li><a href="#">SMM</a></li>
-                            <li><a href="#">Email marketing</a></li>
-                            <li><a href="#">WEBSITE DEVELOPMENT</a></li>
-                            <li><a href="#">WEB ANALYTICS</a></li>
+                            <li><a href="#services" class="navigate">SEO</a></li>
+                            <li><a href="#services" class="navigate">SMM</a></li>
+                            <li><a href="#services" class="navigate">Email marketing</a></li>
+                            <li><a href="#services" class="navigate">WEBSITE DEVELOPMENT</a></li>
+                            <li><a href="#services" class="navigate">WEB ANALYTICS</a></li>
                         </ul>
                         </p>
                     </div>

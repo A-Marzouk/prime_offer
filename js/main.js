@@ -50,6 +50,15 @@ $(document).ready(function() {
         }, 2000);
     });
 
+    $(".navigate").on('click', function () {
+        var $el = $(this)
+        id = $el.attr('href');
+        $('html, body').animate({
+            scrollTop: $('#services').offset().top - 75
+        }, 500);
+        return false;
+    });
+
 	// Page Scroll
 	var sections = $('section')
 		nav = $('nav[role="navigation"]');

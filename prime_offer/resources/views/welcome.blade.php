@@ -115,6 +115,13 @@
     <!-- work section -->
     <section id="works" class="works section no-padding">
         <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12 text-center" style="padding-bottom: 20px;">
+                    <h3>
+                        <b>Works</b>
+                    </h3>
+                </div>
+            </div>
             <div class="row no-gutter">
                 <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/smartmockups_jletx65v.png" class="work-box"> <img src="images/smartmockups_jletx65v.png" alt="" style="height: 336px!important;">
                         <div class="overlay">
@@ -124,7 +131,9 @@
                             </div>
                         </div>
                         <!-- overlay -->
-                    </a> </div>
+                    </a>
+                </div>
+
                 <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/smartmockups_jlewd7a4.jpg" class="work-box"> <img src="images/smartmockups_jlewd7a4.jpg" alt="" style="height: 336px!important;">
                         <div class="overlay">
                             <div class="overlay-caption">
@@ -133,7 +142,9 @@
                             </div>
                         </div>
                         <!-- overlay -->
-                    </a> </div>
+                    </a>
+                </div>
+
                 <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/smartmockups_jlevq56h.png" class="work-box"> <img src="images/smartmockups_jlevq56h.png" alt="" style="height: 336px!important;">
                         <div class="overlay">
                             <div class="overlay-caption">
@@ -142,7 +153,9 @@
                             </div>
                         </div>
                         <!-- overlay -->
-                    </a> </div>
+                    </a>
+                </div>
+
                 <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/desktop.png" class="work-box"> <img src="images/desktop.png" alt="" style="height: 336px!important;">
                         <div class="overlay">
                             <div class="overlay-caption">
@@ -151,7 +164,8 @@
                             </div>
                         </div>
                         <!-- overlay -->
-                    </a> </div>
+                    </a>
+                </div>
             </div>
         </div><br/><br><br/>
     </section>
